@@ -1,0 +1,170 @@
+[33mcommit a2266bc27dd52163ec1c72cd309573e48efb1f4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: dca5dbf b0f0f98
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Sat May 31 21:32:51 2025 +0300
+
+    Merge pull request #11 from Mikitesh/revert-8-bezi
+    
+    Revert "modification"
+
+[33mcommit b0f0f983a404d177a46f16438894fb72422b825f[m
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Sat May 31 21:29:28 2025 +0300
+
+    Revert "modification"
+
+[33mcommit dca5dbf1de25606c41fc1489004a54d47348cbbe[m
+Merge: 9e8a940 88d02af
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Fri May 30 13:34:25 2025 +0300
+
+    Merge pull request #10 from Mikitesh/G_man
+    
+    Add _layout.tsx and explore.tsx
+
+[33mcommit 88d02af6839533ec39f80c1d4e295fd2d859e123[m
+Author: Gadisa Gutema <gadisagutema943@gmail.com>
+Date:   Fri May 30 13:19:40 2025 +0300
+
+    Add _layout.tsx and explore.tsx
+
+[33mcommit 9e8a940b497d0cef27d975dc41fab7b858c2b5e6[m
+Merge: eb71661 9ec3aab
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Thu May 22 09:39:51 2025 +0300
+
+    Merge pull request #9 from Mikitesh/revert-5-gadisa
+    
+    Revert " first commit"
+
+[33mcommit 9ec3aab101f036410ff1170f10142b7e7643e4c7[m
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Thu May 22 09:38:01 2025 +0300
+
+    Revert " first commit"
+
+[33mcommit eb716614535fa670c19373fe38a689f14d01a018[m
+Merge: 45537e7 a638488
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Mon May 12 16:30:23 2025 +0300
+
+    Merge pull request #8 from Mikitesh/bezi
+    
+    modification
+
+[33mcommit 45537e7bd482728228c948a17ca27c6ef341aac6[m
+Merge: bd06a9d ad7d57b
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Mon May 12 16:19:22 2025 +0300
+
+    Merge pull request #7 from Mikitesh/EKRAM
+    
+    Appwite ,data ,seeds
+
+[33mcommit a63848840c707647d71dee55765a2408f4804743[m
+Author: ekram-web <unuse2001@gmail.com>
+Date:   Mon May 12 06:18:46 2025 -0700
+
+    modification
+
+[33mcommit ad7d57bfb2b5f74b4876e884513003fcc9f4f9d6[m
+Author: ekram-web <unuse2001@gmail.com>
+Date:   Sun May 11 20:05:10 2025 -0700
+
+    Appwite ,data ,seeds
+
+[33mcommit bd06a9dc2b9fb674de2a8d726a1f3c026a31dcaa[m
+Merge: 7c2cadc d0bed9a
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Mon May 12 00:44:22 2025 +0300
+
+    Merge pull request #6 from Mikitesh/bezi
+    
+    profile
+
+[33mcommit 7c2cadcd17e73d519444c9cbe0fe108241d26aa0[m
+Merge: d7ed17c 25fd44e
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Mon May 12 00:38:32 2025 +0300
+
+    Merge pull request #5 from Mikitesh/gadisa
+    
+     first commit
+
+[33mcommit 25fd44e28d79f778fe606401fd687372c56a1051[m
+Author: Your Name <you@example.com>
+Date:   Mon May 12 00:32:10 2025 +0300
+
+     first commit
+
+[33mcommit d0bed9accb78d2b1a33eca4fa6e61896f3396cb2[m
+Author: Your Name <you@example.com>
+Date:   Mon May 12 00:28:39 2025 +0300
+
+    profile
+
+[33mcommit d7ed17cf8703e385357545cf17345c13c912ace6[m
+Merge: d0b2c87 3fd7e9a
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Mon May 12 00:24:20 2025 +0300
+
+    Merge pull request #4 from Mikitesh/heli
+    
+    noresulte and search
+
+[33mcommit 3fd7e9a7ec7c0af52f6c965122d4caa819d3db45[m
+Author: Your Name <you@example.com>
+Date:   Mon May 12 00:21:30 2025 +0300
+
+    noresulte and search
+
+[33mcommit d0b2c87996b0c26f2764a84ab24009dadbf73509[m
+Merge: 0c01e3e 15bdd3b
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Mon May 12 00:17:51 2025 +0300
+
+    Merge pull request #3 from Mikitesh/bezi
+    
+    bezi added filter
+
+[33mcommit 15bdd3b0760e5f1309300da46c965bc61bfcee7c[m
+Author: Your Name <you@example.com>
+Date:   Mon May 12 00:12:54 2025 +0300
+
+    bezi added filter
+
+[33mcommit 0c01e3eab5bf797c3ed73dbc66ab3399da63c3ce[m
+Merge: 7f56c4b 5d31be9
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Mon May 12 00:08:23 2025 +0300
+
+    Merge pull request #2 from Mikitesh/bezi
+    
+    bezi added filter
+
+[33mcommit 5d31be9513ccd78fa7d730f29a5137c882dd43ff[m
+Author: Your Name <you@example.com>
+Date:   Mon May 12 00:01:34 2025 +0300
+
+    bezi added filter
+
+[33mcommit 7f56c4b68afd452f4e90cd518af506ca30e377d4[m
+Merge: 3485cde 4a05e07
+Author: Mikitesh <111351761+Mikitesh@users.noreply.github.com>
+Date:   Sun May 11 22:48:24 2025 +0300
+
+    Merge pull request #1 from Mikitesh/EKRAM
+    
+    readme
+
+[33mcommit 4a05e07eb27f73ea439b87286dd6f8522c3a9ad2[m
+Author: ekram-web <unuse2001@gmail.com>
+Date:   Sun May 11 12:07:00 2025 -0700
+
+    readme
+
+[33mcommit 3485cdec9a2ef4fbced0e9c149b5e7870ac31e1b[m
+Author: mikitesh <hailemikialeteshale@gmail.com>
+Date:   Sun May 11 10:32:38 2025 +0300
+
+    general structure of real estate app
