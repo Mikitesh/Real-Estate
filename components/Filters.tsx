@@ -4,15 +4,12 @@ import { Text, ScrollView, TouchableOpacity } from "react-native";
 
 import { categories } from "@/constants/data";
 
-
-// Define the type for the category
 const Filters = () => {
   const params = useLocalSearchParams<{ filter?: string }>();
   const [selectedCategory, setSelectedCategory] = useState(
     params.filter || "All"
   );
-  
-// Define the type for the category
+
   const handleCategoryPress = (category: string) => {
     if (selectedCategory === category) {
       setSelectedCategory("");
