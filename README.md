@@ -16,9 +16,9 @@ Build a full-stack Real Estate application with React Native, featuring Google a
 
 👉Team members: 
 
-Ayub yesuf                         Ugr/30218/15         Mikitesh.
+Ayub yesuf                         Ugr/30218/15        ayuba860. 
 
-Hailemikiale Teshale        Ugr/30614/15        ayuba860.
+Hailemikiale Teshale        Ugr/30614/15        Mikitesh.
 
 Helina Ashenafi                 Ugr/30648/15        helina-a21.
 
