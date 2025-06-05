@@ -13,7 +13,9 @@ Build a full-stack Real Estate application with React Native, featuring Google a
 👉 **Profile Page**: Customizable user settings and profile management
 
 👉 **Centralized Data Fetching**: Custom-built solution inspired by TanStack’s useQuery for efficient API calls.
-Team members: 
+
+👉Team members: 
+
 Ayub yesuf                         Ugr/30218/15         Mikitesh
 Hailemikiale Teshale        Ugr/30614/15        ayuba860
 Helina Ashenafi                 Ugr/30648/15        helina-a21
